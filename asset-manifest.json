@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-memory-game/static/css/main.073c9b0a.css",
-    "main.js": "/react-memory-game/static/js/main.ef56d1cc.js",
+    "main.css": "/react-memory-game/static/css/main.e6c13ad2.css",
+    "main.js": "/react-memory-game/static/js/main.98177f80.js",
     "static/js/787.d63ffd30.chunk.js": "/react-memory-game/static/js/787.d63ffd30.chunk.js",
     "static/media/card-back1.png": "/react-memory-game/static/media/card-back1.502e98463c5d144a8c1f.png",
+    "static/media/card-diamonds-5.png": "/react-memory-game/static/media/card-diamonds-5.fb16c25806dad7760c5f.png",
     "index.html": "/react-memory-game/index.html",
-    "main.073c9b0a.css.map": "/react-memory-game/static/css/main.073c9b0a.css.map",
-    "main.ef56d1cc.js.map": "/react-memory-game/static/js/main.ef56d1cc.js.map",
+    "main.e6c13ad2.css.map": "/react-memory-game/static/css/main.e6c13ad2.css.map",
+    "main.98177f80.js.map": "/react-memory-game/static/js/main.98177f80.js.map",
     "787.d63ffd30.chunk.js.map": "/react-memory-game/static/js/787.d63ffd30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ef56d1cc.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.98177f80.js"
   ]
 }
